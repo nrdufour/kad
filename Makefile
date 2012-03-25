@@ -2,8 +2,8 @@
 all: compile
 
 compile:
-	@./rebar compile
+	@rebar compile
 
 clean:
-	@./rebar clean
+	@rebar clean
 
